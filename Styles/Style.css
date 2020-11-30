@@ -1,0 +1,23 @@
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+}
+  
+.flex-item {
+    border: 2px solid rgba(0, 0, 0, 0.8);
+    flex-grow: 1;
+    margin: 5px;
+    height: 50px;
+    line-height: 50px;
+    padding: 20px;
+    font-family: "Consolas";
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
