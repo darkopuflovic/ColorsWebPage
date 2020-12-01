@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
     var el = document.getElementById("flex-container");
-    var max = Math.floor(Math.random() * 1000) + 1;
+    var max = Math.floor(Math.random() * 500) + 1;
 
     for (var i = 0; i < max; i++) {
         var color = generateColor();
