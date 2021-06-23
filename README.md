@@ -5,4 +5,4 @@ This is also a demonstration of use GitHub Pages. Hosted static content can be s
 https://darkopuflovic.github.io/ColorsWebPage/
 # Screen
 
-![Screenshot](https://github.com/darkopuflovic/ColorsWebPage/blob/master/ScreenShot.png)
+![Screenshot](ScreenShot.png)
